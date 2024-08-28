@@ -8,7 +8,7 @@ This repository contains the main datasets for this study  which investigates Si
 
 The data used in this study were generated from our simulation work. All datasets are available in the `The Result of Simulation/` directory.
 
-Here, we outline three issues discussed in three subfolders.
+Here, we outline three issues discussed in the three subfolders.
 
  If you are interested in further validating the applicability of this algorithm to other bipedal robot structures and require code support or wish to discuss further, please send a request to wangjialei@mail.nwpu.edu.cn. If your request is reasonable, we will consider providing the source code.
 
