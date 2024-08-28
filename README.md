@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the main datasets for this study  which investigates Simulation and Modeling of Bipedal Robots. The aim of this study is to Improve stability Issues of Bipedal Robots During Deep Reinforcement Learning Processes.
+This repository contains the main datasets for this study  which investigates Simulation and Modeling of Bipedal Robots. The aim of this study is to improve stability issues of bipedal robots during deep reinforcement learning processes.
 
 ### Data Collection
 
